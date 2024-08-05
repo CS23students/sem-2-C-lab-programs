@@ -19,5 +19,5 @@ int area_square(int side)
 
 int area_cube(int side)
 {
-    return side * side * side;
+    return 6 * side * side;
 }
